@@ -1,0 +1,267 @@
+[2021-11-05 14:16:10Z INFO AgentProcess] Agent package win-x64.
+[2021-11-05 14:16:10Z INFO AgentProcess] Running on Windows (X64).
+[2021-11-05 14:16:10Z INFO AgentProcess] RuntimeInformation: Microsoft Windows 10.0.19042.
+[2021-11-05 14:16:10Z INFO AgentProcess] Version: 2.194.0
+[2021-11-05 14:16:10Z INFO AgentProcess] Commit: 7dbde4ca1590dc331acd879fb240c5428268b30d
+[2021-11-05 14:16:10Z INFO AgentProcess] Culture: en-GB
+[2021-11-05 14:16:10Z INFO AgentProcess] UI Culture: en-GB
+[2021-11-05 14:16:10Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:10Z INFO HostContext] Well known directory 'Root': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:10Z INFO AgentProcess] Validating directory permissions for: 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:10Z INFO PowerShellExeUtil] Generation: '1'
+[2021-11-05 14:16:10Z INFO PowerShellExeUtil] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PowerShell\1\PowerShellEngine', value name 'PowerShellVersion': '2.0'
+[2021-11-05 14:16:10Z INFO PowerShellExeUtil] Unsupported version. Skipping.
+[2021-11-05 14:16:10Z INFO PowerShellExeUtil] Generation: '3'
+[2021-11-05 14:16:10Z INFO PowerShellExeUtil] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PowerShell\3\PowerShellEngine', value name 'PowerShellVersion': '5.1.19041.1'
+[2021-11-05 14:16:10Z INFO PowerShellExeUtil] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PowerShell\3\PowerShellEngine', value name 'ApplicationBase': 'C:\Windows\System32\WindowsPowerShell\v1.0'
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework', value name 'InstallRoot': 'C:\Windows\Microsoft.NET\Framework64\'
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'SOFTWARE\Microsoft\NET Framework Setup\NDP' contains sub keys:
+[2021-11-05 14:16:10Z INFO AgentProcess]  'CDF'
+[2021-11-05 14:16:10Z INFO AgentProcess]  'v4'
+[2021-11-05 14:16:10Z INFO AgentProcess]  'v4.0'
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4', value name 'Version' is null.
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4', value name '' is null.
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'SOFTWARE\Microsoft\NET Framework Setup\NDP\v4' contains sub keys:
+[2021-11-05 14:16:10Z INFO AgentProcess]  'Client'
+[2021-11-05 14:16:10Z INFO AgentProcess]  'Full'
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client', value name 'Version': '4.8.04084'
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client', value name 'Install': '1'
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client', value name 'InstallPath': 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\'
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client', value name 'Release': '528372'
+[2021-11-05 14:16:10Z INFO AgentProcess] Type is System.Int32
+[2021-11-05 14:16:10Z INFO AgentProcess] Interpreted version: 4.7.0
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full', value name 'Version': '4.8.04084'
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full', value name 'Install': '1'
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full', value name 'InstallPath': 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\'
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full', value name 'Release': '528372'
+[2021-11-05 14:16:10Z INFO AgentProcess] Type is System.Int32
+[2021-11-05 14:16:10Z INFO AgentProcess] Interpreted version: 4.7.0
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4.0', value name 'Version' is null.
+[2021-11-05 14:16:10Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4.0', value name '': 'deprecated'
+[2021-11-05 14:16:10Z INFO AgentProcess] Found 2 versions:
+[2021-11-05 14:16:10Z INFO AgentProcess]  4.7.0
+[2021-11-05 14:16:10Z INFO AgentProcess]  4.7.0
+[2021-11-05 14:16:10Z INFO AgentProcess] Testing for min NET Framework version: '4.5'
+[2021-11-05 14:16:10Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:10Z INFO HostContext] Well known directory 'Root': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:10Z INFO CommandSettings] Configure {
+  "AcceptTeeEula": false,
+  "AddDeploymentGroupTags": false,
+  "AddEnvironmentVirtualMachineResourceTags": false,
+  "AddMachineGroupTags": false,
+  "AlwaysExtractTask": false,
+  "Agent": null,
+  "CollectionName": null,
+  "DeploymentGroup": false,
+  "DeploymentGroupName": null,
+  "DeploymentGroupTags": null,
+  "DeploymentPool": false,
+  "DeploymentPoolName": null,
+  "EnvironmentVMResource": false,
+  "EnvironmentName": null,
+  "EnvironmentVMResourceTags": null,
+  "GitUseSChannel": false,
+  "DisableLogUploads": false,
+  "MachineGroup": false,
+  "MachineGroupName": null,
+  "MachineGroupTags": null,
+  "MonitorSocketAddress": null,
+  "NotificationPipeName": null,
+  "NotificationSocketAddress": null,
+  "NoRestart": false,
+  "OverwriteAutoLogon": false,
+  "Pool": null,
+  "ProjectName": null,
+  "ProxyPassword": null,
+  "ProxyUserName": null,
+  "ProxyUrl": null,
+  "Replace": false,
+  "RunAsAutoLogon": false,
+  "RunAsService": false,
+  "RunOnce": false,
+  "PreventServiceStart": false,
+  "SslCACert": null,
+  "SslClientCert": null,
+  "SslClientCertArchive": null,
+  "SslClientCertKey": null,
+  "SslClientCertPassword": null,
+  "SslSkipCertValidation": false,
+  "Url": null,
+  "WindowsLogonAccount": null,
+  "WindowsLogonPassword": null,
+  "Work": null,
+  "Auth": null,
+  "LaunchBrowser": false,
+  "Password": null,
+  "Token": null,
+  "Unattended": false,
+  "UserName": null,
+  "Help": false,
+  "Version": false
+}
+[2021-11-05 14:16:10Z INFO AgentProcess] Arguments parsed
+[2021-11-05 14:16:10Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:10Z INFO HostContext] Well known directory 'Root': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:10Z INFO HostContext] Well known config file 'Proxy': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.proxy'
+[2021-11-05 14:16:10Z INFO VstsAgentWebProxy] No proxy setting found.
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Root': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:11Z INFO HostContext] Well known config file 'Certificates': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.certificates'
+[2021-11-05 14:16:11Z INFO AgentCertificateManager] No certificate setting found.
+[2021-11-05 14:16:11Z INFO Agent] ExecuteCommand
+[2021-11-05 14:16:11Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin\Agent.Listener.dll
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:11Z INFO ConfigurationStore] binPath: C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Root': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:11Z INFO ConfigurationStore] RootFolder: C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Root': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:11Z INFO HostContext] Well known config file 'Agent': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.agent'
+[2021-11-05 14:16:11Z INFO ConfigurationStore] ConfigFilePath: C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.agent
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Root': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:11Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.credentials'
+[2021-11-05 14:16:11Z INFO ConfigurationStore] CredFilePath: C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.credentials
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Root': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:11Z INFO HostContext] Well known config file 'Service': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.service'
+[2021-11-05 14:16:11Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.service
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Root': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:11Z INFO HostContext] Well known config file 'Autologon': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.autologon'
+[2021-11-05 14:16:11Z INFO ConfigurationStore] AutoLogonSettingsFilePath: C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.autologon
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Root': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:11Z INFO HostContext] Well known config file 'Options': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.options'
+[2021-11-05 14:16:11Z INFO ConfigurationStore] RuntimeOptionsFilePath: C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.options
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Root': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:11Z INFO HostContext] Well known config file 'SetupInfo': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.setup_info'
+[2021-11-05 14:16:11Z INFO ConfigurationStore] SetupInfoFilePath: C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.setup_info
+[2021-11-05 14:16:11Z INFO Terminal] WRITE LINE: 
+  ___                      ______ _            _ _
+ / _ \                     | ___ (_)          | (_)
+/ /_\ \_____   _ _ __ ___  | |_/ /_ _ __   ___| |_ _ __   ___  ___
+|  _  |_  / | | | '__/ _ \ |  __/| | '_ \ / _ \ | | '_ \ / _ \/ __|
+| | | |/ /| |_| | | |  __/ | |   | | |_) |  __/ | | | | |  __/\__ \
+\_| |_/___|\__,_|_|  \___| \_|   |_| .__/ \___|_|_|_| |_|\___||___/
+                                   | |
+        agent v2.194.0             |_|          (commit 7dbde4c)
+
+[2021-11-05 14:16:11Z INFO ConfigurationManager] CheckAgentRootDirectorySecure
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:11Z INFO HostContext] Well known directory 'Root': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:11Z INFO ConfigurationManager] ConfigureAsync
+[2021-11-05 14:16:11Z INFO ConfigurationStore] IsConfigured()
+[2021-11-05 14:16:11Z INFO ConfigurationStore] IsConfigured: False
+[2021-11-05 14:16:11Z INFO ConfigurationManager] Is configured: False
+[2021-11-05 14:16:11Z INFO CommandSettings] Flag 'sslskipcertvalidation': 'False'
+[2021-11-05 14:16:11Z INFO ConfigurationManager] Testing for min NET Framework version: '4.6'
+[2021-11-05 14:16:11Z INFO CommandSettings] Flag 'deploymentgroup': 'False'
+[2021-11-05 14:16:11Z INFO CommandSettings] Flag 'deploymentpool': 'False'
+[2021-11-05 14:16:11Z INFO CommandSettings] Flag 'environment': 'False'
+[2021-11-05 14:16:11Z INFO ExtensionManager] Getting extensions for interface: 'Microsoft.VisualStudio.Services.Agent.Listener.Configuration.IConfigurationProvider'
+[2021-11-05 14:16:11Z INFO ExtensionManager] Creating instance: Microsoft.VisualStudio.Services.Agent.Listener.Configuration.BuildReleasesAgentConfigProvider, Agent.Listener
+[2021-11-05 14:16:11Z INFO ExtensionManager] Creating instance: Microsoft.VisualStudio.Services.Agent.Listener.Configuration.DeploymentGroupAgentConfigProvider, Agent.Listener
+[2021-11-05 14:16:11Z INFO ExtensionManager] Creating instance: Microsoft.VisualStudio.Services.Agent.Listener.Configuration.SharedDeploymentAgentConfigProvider, Agent.Listener
+[2021-11-05 14:16:11Z INFO ExtensionManager] Creating instance: Microsoft.VisualStudio.Services.Agent.Listener.Configuration.EnvironmentVMResourceConfigProvider, Agent.Listener
+[2021-11-05 14:16:11Z INFO Terminal] WRITE LINE: 
+[2021-11-05 14:16:11Z INFO Terminal] WRITE LINE: >> Connect:
+[2021-11-05 14:16:11Z INFO Terminal] WRITE LINE: 
+[2021-11-05 14:16:11Z INFO CommandSettings] Arg 'url': ''
+[2021-11-05 14:16:11Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-11-05 14:16:11Z INFO PromptManager] ReadValue
+[2021-11-05 14:16:11Z INFO Terminal] WRITE: Enter server URL > 
+[2021-11-05 14:16:11Z INFO Terminal] READ LINE
+[2021-11-05 14:16:26Z INFO Terminal] Read value: 'https://dev.azure.com/eliezerbwana'
+[2021-11-05 14:16:26Z INFO ConfigurationManager] GetCredentialProvider
+[2021-11-05 14:16:26Z INFO CommandSettings] Arg 'auth': ''
+[2021-11-05 14:16:26Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-11-05 14:16:26Z INFO PromptManager] ReadValue
+[2021-11-05 14:16:26Z INFO Terminal] WRITE: Enter authentication type (press enter for PAT) > 
+[2021-11-05 14:16:26Z INFO Terminal] READ LINE
+[2021-11-05 14:16:27Z INFO Terminal] Read value: ''
+[2021-11-05 14:16:27Z INFO PromptManager] Falling back to the default: 'PAT'
+[2021-11-05 14:16:27Z INFO ConfigurationManager] Creating credential for auth: PAT
+[2021-11-05 14:16:27Z INFO CredentialManager] GetCredentialProvider
+[2021-11-05 14:16:27Z INFO CredentialManager] Creating type PAT
+[2021-11-05 14:16:27Z INFO CredentialManager] Creating credential type: PAT
+[2021-11-05 14:16:27Z INFO PersonalAccessToken] EnsureCredential
+[2021-11-05 14:16:27Z INFO CommandSettings] Arg 'token': ''
+[2021-11-05 14:16:27Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-11-05 14:16:27Z INFO PromptManager] ReadValue
+[2021-11-05 14:16:27Z INFO Terminal] WRITE: Enter personal access token > 
+[2021-11-05 14:16:27Z INFO Terminal] READ SECRET
+[2021-11-05 14:16:31Z INFO Terminal] Read value: '***'
+[2021-11-05 14:16:31Z INFO PersonalAccessToken] GetVssCredentials
+[2021-11-05 14:16:31Z INFO PersonalAccessToken] token retrieved: 52 chars
+[2021-11-05 14:16:31Z INFO PersonalAccessToken] cred created
+[2021-11-05 14:16:31Z INFO ConfigurationManager] cred retrieved
+[2021-11-05 14:16:31Z INFO VisualStudioServices] Starting operation Location.GetConnectionData
+[2021-11-05 14:16:32Z INFO VisualStudioServices] Finished operation Location.GetConnectionData
+[2021-11-05 14:16:32Z INFO VisualStudioServices] Starting operation Location.GetConnectionData
+[2021-11-05 14:16:33Z INFO VisualStudioServices] Finished operation Location.GetConnectionData
+[2021-11-05 14:16:33Z INFO VisualStudioServices] Starting operation Location.GetConnectionData
+[2021-11-05 14:16:33Z INFO VisualStudioServices] Finished operation Location.GetConnectionData
+[2021-11-05 14:16:33Z INFO Terminal] WRITE LINE: Connecting to server ...
+[2021-11-05 14:16:33Z INFO AgentServer] Establish connection with 100 seconds timeout.
+[2021-11-05 14:16:33Z INFO VisualStudioServices] Starting operation Location.GetConnectionData
+[2021-11-05 14:16:34Z INFO VisualStudioServices] Finished operation Location.GetConnectionData
+[2021-11-05 14:16:34Z INFO AgentServer] Establish connection with 60 seconds timeout.
+[2021-11-05 14:16:34Z INFO VisualStudioServices] Starting operation Location.GetConnectionData
+[2021-11-05 14:16:34Z INFO AgentServer] Establish connection with 60 seconds timeout.
+[2021-11-05 14:16:34Z INFO VisualStudioServices] Starting operation Location.GetConnectionData
+[2021-11-05 14:16:34Z INFO VisualStudioServices] Finished operation Location.GetConnectionData
+[2021-11-05 14:16:34Z INFO VisualStudioServices] Finished operation Location.GetConnectionData
+[2021-11-05 14:16:35Z INFO ConfigurationManager] Test Connection complete.
+[2021-11-05 14:16:35Z INFO HostContext] Well known directory 'Bin': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\bin'
+[2021-11-05 14:16:35Z INFO HostContext] Well known directory 'Root': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01'
+[2021-11-05 14:16:35Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.credentials_rsaparams'
+[2021-11-05 14:16:35Z INFO RSAEncryptedFileKeyManager] Creating new RSA key using 2048-bit key length
+[2021-11-05 14:16:35Z INFO RSAEncryptedFileKeyManager] Successfully saved RSA key parameters to file C:\Users\CTRL TECH\Documents\Certif\DevOps\Projects\DevOps01\DevOps01\.credentials_rsaparams
+[2021-11-05 14:16:35Z INFO Terminal] WRITE LINE: 
+[2021-11-05 14:16:35Z INFO Terminal] WRITE LINE: >> Register Agent:
+[2021-11-05 14:16:35Z INFO Terminal] WRITE LINE: 
+[2021-11-05 14:16:35Z INFO CommandSettings] Arg 'pool': ''
+[2021-11-05 14:16:35Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-11-05 14:16:35Z INFO PromptManager] ReadValue
+[2021-11-05 14:16:35Z INFO Terminal] WRITE: Enter agent pool (press enter for default) > 
+[2021-11-05 14:16:35Z INFO Terminal] READ LINE
+[2021-11-05 14:16:40Z INFO Terminal] Read value: ''
+[2021-11-05 14:16:40Z INFO PromptManager] Falling back to the default: 'default'
+[2021-11-05 14:16:40Z WARN VisualStudioServices] Authentication failed with status code 401.
+P3P: CP="CAO DSP COR ADMa DEV CONo TELo CUR PSA PSD TAI IVDo OUR SAMi BUS DEM NAV STA UNI COM INT PHY ONL FIN PUR LOC CNT"
+WWW-Authenticate: Basic realm="https://tfsprodweu8.visualstudio.com/"
+X-TFS-ProcessId: aa3549c2-4c5c-4846-8eb7-ad67eeca2b60
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+ActivityId: da85ffa2-96c5-4c69-b9ce-4aa47e5f4e41
+X-TFS-Session: 8e80b652-7673-47aa-b0c0-83d5a0ca6c0c
+X-VSS-E2EID: c508fe50-a3eb-4c4d-a6a2-c8d7f8273964
+X-VSS-SenderDeploymentId: c518140b-a1e2-d11a-3c91-1a181d4b1e29
+Request-Context: appId=cid-v1:5ff2fb41-7b44-4199-811f-c76fe5186821
+Access-Control-Expose-Headers: Request-Context
+X-Content-Type-Options: nosniff
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 882B3275CB9D45D2BB1AA834BFFDC1A5 Ref B: JNB02EDGE0310 Ref C: 2021-11-05T14:16:40Z
+Date: Fri, 05 Nov 2021 14:16:39 GMT
+
+[2021-11-05 14:16:40Z WARN VisualStudioServices] Basic issued token provider instance 62331491 requires an interactive prompt which is not allowed by the current settings
+[2021-11-05 14:16:40Z ERR  VisualStudioServices] GET request to https://dev.azure.com/eliezerbwana/_apis/distributedtask/pools?poolName=default&poolType=Automation is not authorized. Details: VS30063: You are not authorized to access https://dev.azure.com.
+[2021-11-05 14:16:40Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-11-05 14:16:40Z ERR  Terminal] WRITE ERROR (exception):
+[2021-11-05 14:16:40Z ERR  Terminal] Microsoft.VisualStudio.Services.Common.VssUnauthorizedException: VS30063: You are not authorized to access https://dev.azure.com.
+   at Microsoft.VisualStudio.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Microsoft.VisualStudio.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Services.Agent.Listener.Configuration.BuildReleasesAgentConfigProvider.GetPoolIdAndName(AgentSettings agentSettings, CommandSettings command)
+   at Microsoft.VisualStudio.Services.Agent.Listener.Configuration.ConfigurationManager.ConfigureAsync(CommandSettings command)
+[2021-11-05 14:16:40Z ERR  Terminal] WRITE ERROR: Failed to find pool name. Try again or ctrl-c to quit
+[2021-11-05 14:16:40Z INFO CommandSettings] Arg 'pool': ''
+[2021-11-05 14:16:40Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-11-05 14:16:40Z INFO PromptManager] ReadValue
+[2021-11-05 14:16:40Z INFO Terminal] WRITE: Enter agent pool (press enter for default) > 
+[2021-11-05 14:16:40Z INFO Terminal] READ LINE
